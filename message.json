@@ -1,0 +1,26 @@
+{
+  "type" : "ALERT",
+  "title" : "Credit Alert",
+  "message" : "You have received NGN3,000 from Ojo Daniels",
+  "data" : {
+    "amount": "3000",
+    "senderName": "Ojo Daniels",
+    "senderBank": "GT Bank",
+    "senderAccount": "0012900014",
+    "narration": "Narration",
+    "timestamp": "Tue 31 Jan, 2024 | 5:00 PM"
+  }
+}
+
+{
+  "type" : "HALF_CAMPAIGN",
+  "title" : "Free Transaction Saturday",
+  "message" : "Exciting news, your transaction this weekend will come at no cost to you. \nYes, no cost, Xtra pay will bear the cost of processing your transaction",
+  "imageUrl" : ""
+}
+
+
+{
+  "type" : "FUL_CAMPAIGN",
+  "imageUrl" : ""
+}
